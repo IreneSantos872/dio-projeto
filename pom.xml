@@ -20,6 +20,22 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin.com.google.code.eamelink-mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>1.9.1-20110911</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.attiand</groupId>
+            <artifactId>assertj-jaxts-junit-jupiter</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.7.2</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
 </project>
